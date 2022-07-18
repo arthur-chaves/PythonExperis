@@ -2,7 +2,6 @@ import json
 import pickle
 import pprint
 
-#3 faccio alla sera 
 #4
 x_conv = input("Qual è il tipo di conversione? 1.Json, 2. Pickle ")
 pyt=pickle
